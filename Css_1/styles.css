@@ -1,0 +1,458 @@
+#i9zfnf-2-2 {
+	color: #ffffff;
+}
+
+#i9zfnf-2 {
+	color: rgb(255, 255, 255);
+}
+
+.Tamaño_12
+{
+	font-style: oblique;
+	font-weight: bold;
+	margin-top: 10px;
+}
+
+
+a:hover {
+	text-decoration-line: none;
+	text-decoration-style: initial;
+	text-decoration-color: initial;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+}
+.parallax1
+{
+  min-height: 500px;
+  background: transparent;
+}
+
+.parallax2
+{
+  min-height: 400px;
+  background: transparent;
+}
+.parrafo_limitado
+{
+	width: 253px;
+	height: 244px;
+}
+.Imagen_Cuadrada
+{
+  width: 253px;
+  height: 244px;
+  box-shadow: 5px 5px 2px lightgrey;
+}
+
+
+.Imagen_Cuadrada_Especial
+{
+  width: 253px;
+  height: 244px;
+  box-shadow: 5px 5px 2px lightgrey;
+	opacity: .7;
+}
+.Imagen_Cuadrada_Especial:hover
+{
+	opacity: 2;
+	box-shadow: 5px 5px 2px lightgrey;
+}
+.Imagen_check
+{
+  width: 200px;
+  height: 191px;
+  box-shadow: 5px 5px 2px lightgrey;
+		opacity: .7;
+}
+.image-caption {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-40%);
+  left: 38%;
+}
+.image-caption-menos {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-40%);
+  left: 29%;
+	background-color: #000000;
+	opacity: 0.8;
+	
+}
+
+.image-caption-menos-menos {
+  position: absolute;
+  top: 40%;
+  transform: translateY(-40%);
+  left: 12%;
+}
+.image-caption_Cuadrados
+{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 40%;
+}
+.image-caption_Cuadrados_mini
+{
+  position: absolute;
+  top: 40%;
+  transform: translateY(-50%);
+  left: 25%;
+}
+.image-caption_Cuadrados_U
+{
+  position: absolute;
+  top: 40%;
+  transform: translateY(-40%);
+  left: 40%;
+}
+
+.margen_visible
+{
+	border: solid 1px #000;
+}
+
+.header-1 {
+	position: relative;
+	height: 100vh;
+	min-height: 25rem;
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-image: url("https://www.gridbox.io/projects/38790d7c-b8cb-493f-a68c-054a7496fab7/assets/img/affair-arch-arch-bridge-1021068.jpg");
+	background-attachment: fixed;
+	background-origin: initial;
+	background-clip: initial;
+	background-color: black;
+	background-size: cover;
+	background-position-x: 50%;
+	background-position-y: 50%;
+}
+
+.header-1 .container {
+	position: relative;
+	z-index: 2;
+}
+
+.header-1 .overlay {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	background-image: initial;
+	background-position-x: initial;
+	background-position-y: initial;
+	background-size: initial;
+	background-attachment: initial;
+	background-origin: initial;
+	background-clip: initial;
+	background-color: rgba(0, 0, 0, 0.5);
+	z-index: 1;
+}
+
+.display-3 {
+	text-align: left;
+}
+
+.card-img-right.flex-auto.d-none.d-lg-block {
+	width: 170px;
+	height: 227px;
+}
+
+.footer-1 address {
+	font-size: 21px;
+}
+
+.footer-1 ul li {
+	padding-bottom: 2px;
+}
+
+.col-sm-2.col-form-label {
+	color: rgb(94, 94, 94);
+}
+
+.card.p-5 {
+	width: 50%;
+}
+
+.col-12.col-form-label.search-label {
+	color: rgb(33, 37, 41);
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.display-2 {
+	text-align: left;
+}
+
+.header-1.banner {
+	min-height: 387px;
+	height: 60%;
+	background-image: url("https://www.gridbox.io/projects/38790d7c-b8cb-493f-a68c-054a7496fab7/assets/img/adventure-1850912_1920.jpg");
+	background-repeat-x: repeat;
+	background-repeat-y: repeat;
+	background-position-x: 0%;
+	background-position-y: 0%;
+	background-attachment: scroll;
+	background-size: cover;
+}
+
+.btn.btn-danger.btn-lg.mt-2 {
+	text-align: left;
+}
+
+.display-4 {
+	text-align: left;
+}
+
+.btn.btn-lg.mt-2.btn-link {
+	color: rgb(0, 123, 255);
+}
+
+.btn.btn-lg.mt-2.btn-link.banner-btn {
+	color: rgb(253, 253, 253);
+}
+
+.header-w-search {
+	position: relative;
+	height: 80vh;
+	min-height: 25rem;
+	width: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	background-image: url("https://source.unsplash.com/collection/1157/1600x900");
+	background-position-x: 50%;
+	background-position-y: 50%;
+	background-repeat-x: no-repeat;
+	background-repeat-y: no-repeat;
+	background-attachment: fixed;
+	background-color: black;
+	background-size: cover;
+}
+
+.header-w-search .container {
+	position: relative;
+	z-index: 2;
+}
+
+.header-w-search .overlay {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+	background-color: black;
+	opacity: 0.5;
+	z-index: 1;
+}
+
+.header-w-search.banner {
+	background-image: url("https://www.gridbox.io/projects/38790d7c-b8cb-493f-a68c-054a7496fab7/assets/img/adventure-1850912_1920.jpg");
+	background-repeat-x: repeat;
+	background-repeat-y: repeat;
+	background-position-x: 0%;
+	background-position-y: 0%;
+	background-attachment: scroll;
+	height: 400px;
+	background-size: cover;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+.c22739 {
+	text-align: left;
+}
+
+.kead {
+	text-align: left;
+}
+
+.mb-5.display-4 {
+	text-align: center;
+}
+
+.collapse.navbar-collapse {
+	transform: rotateX(0) rotateY(0) rotateZ(0) scaleX(1) scaleY(1) scaleZ(1);
+	border-radius: 0;
+	background-color: #000000;
+}
+
+.c13774 {
+	color: black;
+}
+.btn_nuevo
+{
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  width: 80px;
+  height: 40px;
+}
+.btn-primary {
+	width: 200px;
+	height: 50px;
+  background-color: red;
+  border: 1px solid #563d7c;
+
+}
+.btn-primary:hover {
+  background-color: green;
+  border: 1px solid #563d7c;
+}
+.btn-outline-light:hover
+{
+  background-color: blue;
+  color: white;
+  border: 1px solid #563d7c;
+}
+.btn_nuevo:hover
+{
+  background-color: gray;
+  color: white;
+  border: 1px solid #563d7c;
+}
+.c13885 {
+	color: black;
+	width: 101px;
+	height: 95px;
+}
+
+.c13997 {
+	color: black;
+	width: 65px;
+	height: 61px;
+}
+
+.c14226 {
+	color: black;
+	width: 53px;
+	height: 53px;
+}
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark.fixed-top {
+	background-color: #000000;
+}
+
+.card-text {
+	text-shadow: 0 0 0 black;
+	text-align: center;
+}
+
+.c30702 {
+	color: black;
+	width: 244px;
+	height: 183px;
+}
+
+.mb-0 {
+	text-align: center;
+}
+
+.gjs-comp-selected {
+	color: #ffffff;
+	text-align: center;
+}
+
+.card-img-top {
+	width: 238.98399999999998px;
+	height: 159px;
+}
+
+.c5942 {
+	color: black;
+	width: 242px;
+	height: 181px;
+}
+
+.c6240 {
+	color: black;
+}
+
+.c6361 {
+	color: black;
+}
+
+.c6525 {
+	color: black;
+	width: 245px;
+	height: 184px;
+}
+
+.c18614 {
+	color: black;
+	width: 101px;
+	height: 81px;
+	float: left;
+	display: inline-block;
+	border-radius: 0 0 0 1px;
+	background-color: #343a40;
+}
+
+.c19140 {
+	color: black;
+	width: 39px;
+	height: 32px;
+}
+
+.c10151 {
+	color: black;
+	width: 261.984px;
+	height: 189px;
+}
+
+.c10331 {
+	color: black;
+	width: 247px;
+	height: 184px;
+}
+
+.c10539 {
+	color: black;
+	width: 250px;
+	height: 183px;
+}
+
+.c11397 {
+	font-size: 1rem;
+}
+
+@media (max-width: 480px) {
+	.header-1 h2 {
+		font-size: 44px;
+	}
+
+	.card.p-5.w-50 {
+		width: 100%;
+	}
+
+	.card.p-5 {
+		width: 100%;
+	}
+
+	.display-2 {
+		font-size: 44px;
+	}
+
+	.header-w-search h2 {
+		font-size: 20px;
+	}
+	body{background-image: url("images/imagen_pequena.png");
+  background-attachment: fixed;}
+}
+h1
+{
+	
+}
+.Inside
+{
+	border:1px black;
+}
